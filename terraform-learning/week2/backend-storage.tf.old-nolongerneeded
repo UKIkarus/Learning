@@ -1,3 +1,6 @@
+#NOTE: This file is no longer needed as the backend configuration has been moved to the main.tf file of State-Storage and is managed independently.
+# This allows for Terraform destroy to work each week without removing the remote store container.
+
 # Random suffix for globally unique names
 resource "random_string" "state_suffix" {
   length  = 6
