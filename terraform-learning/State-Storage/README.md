@@ -1,6 +1,23 @@
 # Terraform State Storage Infrastructure
 
-This module sets up the infrastructure required for secure and centralized Terraform state management in Azure. It creates a dedicated storage account with appropriate security controls and access restrictions.
+<div align="center">
+  <h3 align="center">Secure Terraform State Management</h3>
+
+  <p align="center">
+    A secure and scalable state storage solution for Terraform projects
+    <br />
+    <br />
+    <a href="#features">Features</a>
+    ·
+    <a href="#usage">Usage</a>
+    ·
+    <a href="#security">Security</a>
+  </p>
+</div>
+
+## About
+
+This module implements a secure and centralized state storage infrastructure for Terraform projects using Azure Storage. It follows security best practices and implements multiple layers of protection for your Terraform state files.
 
 ## Features
 
