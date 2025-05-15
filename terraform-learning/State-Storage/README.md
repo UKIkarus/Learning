@@ -1,4 +1,4 @@
-# Terraform State Storage Infrastructure
+<h1 align="center">Terraform State Storage Infrastructure</h1>
 
 <div align="center">
   <h3 align="center">Secure Terraform State Management</h3>
