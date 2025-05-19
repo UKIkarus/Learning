@@ -35,5 +35,3 @@ crash.log
 
 # Ignore any .env files that might contain sensitive data
 *.env
-*.tfstate
-*.tfstate.*
